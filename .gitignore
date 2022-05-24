@@ -1,10 +1,5 @@
+.vscode/*
 
-# Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,jupyternotebooks
-# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,jupyternotebooks
-
-### JupyterNotebooks ###
-# gitignore template for Jupyter Notebooks
-# website: http://jupyter.org/
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
@@ -18,11 +13,6 @@ ipython_config.py
 
 ### VisualStudioCode ###
 .vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-!.vscode/*.code-snippets
 
 # Local History for Visual Studio Code
 .history/
@@ -36,7 +26,6 @@ ipython_config.py
 .ionide
 
 # Support for Project snippet scope
-.vscode/*.code-snippets
 
 # Ignore code-workspaces
 *.code-workspace
